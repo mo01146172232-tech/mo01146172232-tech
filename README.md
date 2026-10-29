@@ -1,5 +1,5 @@
 # Hi there, I'm Mohamed Amer 👋
-### Full-Stack Web Developer & Web Security Specialist
+### Freelance Full-Stack Web Developer & Web Security Specialist
 
 > **How I Can Help You:**
 > I help small clothing and Instagram brands in Egypt that take every order by DM. I build you a secure online store that you manage yourself, delivered in 3 weeks, with a video walkthrough at handover and security basics built in. 
